@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mike
-- 👀 I’m interested in SaaS
-- 🌱 I’m currently learning Prisma, GraphQL
+- 🌱 Learning Go
 - 🦾 I’m working on www.blueskysunnyday.com
 - 📫 How to reach me: mike@blueskysunnyday.com
 
